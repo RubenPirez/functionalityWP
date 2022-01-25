@@ -1,3 +1,4 @@
+
 Esta funcionalidad está pensada para controlar la fecha de reposición de los productos en un ecommerce.
 
 Partiendo de un campo personalizado en el que se incluye la fecha prevista de reposición del producto, se coge este campo para calcular 
