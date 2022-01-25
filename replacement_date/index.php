@@ -56,7 +56,7 @@ function rp_fecha_prevista_stock(){
 		// muestra por pantalla los 2 enlaces para contactar con el ecommerce, por WhatsApp o por Email, con texto y/o asunto predeterminado (url producto)
 			echo "<p> Si necesitas más información sobre la disponibilidad de este producto, contacta con nosotros a través de: <br>
 			<a class = \"btn-info\" target=\"_blank\" href=\"https://api.whatsapp.com/send?phone=***********&text=$url_product\"> WhatsApp </a>
-			<a class = \"btn-info\" target=\"_blank\" href=\"mailto:info@rpnformatica.es?subject=$subject&body=$url_product\"> Email </a></p>";
+			<a class = \"btn-info\" target=\"_blank\" href=\"mailto:*****@**********.**?subject=$subject&body=$url_product\"> Email </a></p>";
 		}
  	}	
 }
